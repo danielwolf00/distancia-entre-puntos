@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\bin\Debug\DistanciaPuntosC.exe.config
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\bin\Debug\DistanciaPuntosC.exe
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\bin\Debug\DistanciaPuntosC.pdb
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\obj\Debug\DistanciaPuntosC.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\obj\Debug\DistanciaPuntosC.Form1.resources
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\obj\Debug\DistanciaPuntosC.Properties.Resources.resources
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\obj\Debug\DistanciaPuntosC.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\obj\Debug\DistanciaPuntosC.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\obj\Debug\DistanciaPuntosC.exe
+C:\Users\pc\source\repos\DistanciaPuntosC\DistanciaPuntosC\obj\Debug\DistanciaPuntosC.pdb

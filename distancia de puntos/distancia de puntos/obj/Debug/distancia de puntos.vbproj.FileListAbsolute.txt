@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\bin\Debug\distancia de puntos.exe.config
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\bin\Debug\distancia de puntos.exe
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\bin\Debug\distancia de puntos.pdb
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\bin\Debug\distancia de puntos.xml
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\obj\Debug\distancia de puntos.vbprojAssemblyReference.cache
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\obj\Debug\distancia_de_puntos.Form1.resources
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\obj\Debug\distancia_de_puntos.Resources.resources
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\obj\Debug\distancia de puntos.vbproj.GenerateResource.cache
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\obj\Debug\distancia de puntos.vbproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\obj\Debug\distancia de puntos.exe
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\obj\Debug\distancia de puntos.xml
+C:\Users\pc\source\repos\distancia de puntos\distancia de puntos\obj\Debug\distancia de puntos.pdb
